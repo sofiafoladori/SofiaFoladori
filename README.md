@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -26,7 +26,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -38,10 +38,6 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -67,14 +63,6 @@ I’m a Data Scientist with a bachelor’s in biology (UFPR, Brazil) and finishi
 I have worked as a teacher and tutor for three years during my bachelor's in the fields of biology, environmental science, sociology, and genetics. I also worked as a research assistant for three years at the university, in the areas of cell culture and vegetative propagation. In addition, I worked for six months with a recent-graduate-scholarship in the public institution EMBRAPA Florestas, with vegetative propagation and physiology. 
 
 Currently, I am working as a research assistant at the University of Hohenheim with environmental modeling and AI-supported bibliographic analysis.  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
