@@ -3,12 +3,12 @@
 
 
 - 💼 I’m currently working as a research assistant with environmental modeling and AI-supported bibliographic analysis  
+
+
+- 📖 I’m a biologist with a Master in Science, Technology & Innovation, with a specialization in Public Communication of Science (UNRN)   
   
 
 - 📖 I’m a student MBA in Data Science & Analytics (USP-Esalq)   
-  
-
-- 📖 I’m a master's student in Science, Technology & Society (UNRN)   
   
 
 - 📖 I’m a master's student in Environmental Science (Hohenheim University & BOKU)  
@@ -46,7 +46,7 @@
 
 
 ### More about me  
-I’m a Data Scientist with a bachelor’s in biology (UFPR, Brazil) and finishing an MBA in Data Science and Analysis (USP-Esalq, graduation in December 2022). In addition, I am finishing a master’s in Science, Technology, and Society (UNRN, Argentina, graduation in December 2022), and will start the last year of a double degree master’s in Environmental Science (University of Hohenheim, Germany & BOKU, Austria, graduation in August 2023). 
+I’m a Data Scientist with a bachelor’s in biology (UFPR, Brazil) with a Master in Science, Technology, and Innovation with a specialization in Public Communication of Science (UNRN, Argentina). I’m and finishing an MBA in Data Science and Analysis (USP-Esalq, graduation in November 2022) and I will start the last year of a double degree master’s in Environmental Science (University of Hohenheim, Germany & BOKU, Austria, graduation in August 2023). 
 
 I have worked as a teacher and tutor for three years during my bachelor's in the fields of biology, environmental science, sociology, and genetics. I also worked as a research assistant for three years at the university, in the areas of cell culture and vegetative propagation. In addition, I worked for six months with a recent-graduate-scholarship in the public institution EMBRAPA Florestas, with vegetative propagation and physiology. 
 
